@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Looruu/Looruu/blob/main/banner.png" width="100%" alt="Rubén Acedo – Banner Web3">
+  <img src="https://raw.githubusercontent.com/Looruu/Looruu/main/banner.png" width="100%" alt="Banner Web3">
 </p>
+
 
 
 # 👋 Hola, soy Rubén Acedo Desarrollador Web3 en crecimiento,
