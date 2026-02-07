@@ -1,4 +1,7 @@
-<p align="center"> <img src="./banner.png" width="100%" alt="Rubén Acedo – Banner Web3"> </p>
+<p align="center">
+  <img src="https://github.com/Looruu/Looruu/blob/main/banner.png" width="100%" alt="Rubén Acedo – Banner Web3">
+</p>
+
 
 # 👋 Hola, soy Rubén Acedo Desarrollador Web3 en crecimiento,
 Formación técnica sólida en redes, protocolos y arquitectura de sistemas. Tras años de estudio autodidacta, estoy profundizando en blockchain a través de dos másters complementarios: 
