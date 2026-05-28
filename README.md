@@ -18,6 +18,22 @@ Formación técnica sólida en redes, protocolos y arquitectura de sistemas. Tra
 - Contratos simples y complejos con enfoque experto
 - Ciberseguridad aplicada a Web3 y arquitectura segura de contratos
   
+### 🧠 Academy Securiters
+
+-Fundamentos de Ciberseguridad — Principios de seguridad, modelos de amenaza, análisis de riesgos y buenas prácticas defensivas.
+-Pentesting Ético — Metodologías OSSTMM/OWASP, reconocimiento, enumeración, explotación controlada y reporting profesional.
+-OSINT Operacional — Técnicas de inteligencia en fuentes abiertas, footprinting, análisis de infraestructura y trazabilidad digital.
+-Análisis de Malware — Estática y dinámica, sandboxing, firmas, IOC extraction y comportamiento.
+-Forense Digital — Preservación de evidencia, timeline analysis, artefactos de sistema y reconstrucción de incidentes.
+-Seguridad en Redes — Arquitecturas seguras, segmentación, hardening, detección de tráfico anómalo y análisis de protocolos.
+-Seguridad Web — OWASP Top 10, auditoría de APIs, validación, autenticación, control de acceso y explotación controlada.
+-Threat Intelligence — Identificación de TTPs, MITRE ATT&CK, análisis de actores, correlación de IOCs y elaboración de informes.
+-Blue Team & Detección — SIEM, reglas de correlación, monitoreo, respuesta a incidentes y contención.
+-Red Team Fundamentals — Emulación de adversarios, planificación, OPSEC, infraestructura y ejecución controlada.
+-Seguridad en Cloud — IAM, Zero Trust, políticas, auditoría y configuración segura en entornos cloud.
+-Criptografía Aplicada — Hashing, cifrado simétrico/asimétrico, PKI, firmas digitales y protocolos seguros.
+
+
 ---
 ## 🚀 Proyectos en desarrollo ### 
 
@@ -47,5 +63,10 @@ Aportar valor real al ecosistema hispanohablante y global. Convertirme en arquit
 ---
 ## 📫 Contacto - GitHub: 
 [github.com/Looruu](https://github.com/Looruu) - LinkedIn: [linkedin.com/in/ruben-acedo](https://www.linkedin.com/in/ruben-acedo) 
+[https://start.me/p/gGp7JK/alpha-team) 
+[Alpha-team](https://start.me/p/gGp7JK/alpha-team)
+[Bravo-team](https://start.me/p/Kgnomz/bravo-team)
+[DLT-team](https://start.me/p/w9aegz/dlt-team)
+
 ---
 <p align="center"> <sub>Aprendiendo con enfoque, construyendo con intención, avanzando con mentalidad de arquitecto.</sub> </p>
