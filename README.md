@@ -13,7 +13,7 @@
 
 ---
 
-## 📜 Carta de Pensamiento Profesional
+##  Carta de Pensamiento Profesional
 
 La Web3 no es solo una evolución tecnológica; es un cambio en el paradigma de la confianza. Al eliminar a los intermediarios, el código se convierte en la única ley, y la red, en el único territorio. En este entorno, la seguridad y la inteligencia no son fases posteriores al desarrollo: **son el cimiento**.
 
@@ -27,7 +27,7 @@ Mi objetivo no es solo escribir código que funcione, sino construir infraestruc
 
 ---
 
-## 🎓 Arquitectura de mi Formación
+##  Arquitectura de mi Formación
 
 ### La Capa Constructiva: Blockchain & Desarrollo
 **Máster en Blockchain & Web3 — IEBS School**
@@ -54,7 +54,7 @@ Mi objetivo no es solo escribir código que funcione, sino construir infraestruc
 
 ---
 
-## 🚀 Ejecución: Proyectos
+## Ejecución: Proyectos
 
 ### 🔹 [Smart Constructor](https://github.com/Looruu/smart-constructor)
 **Generador modular de tokens ERC20**
@@ -70,7 +70,7 @@ Biblioteca de operaciones numéricas avanzadas pensada como cimiento para protoc
 
 ---
 
-## 🧠 Marco de Trabajo
+##  Marco de Trabajo
 
 - **Seguridad por Diseño (Secure by Default):** No construyo para agregar seguridad después; la seguridad dicta la arquitectura inicial.
 - **Pensamiento de Adversario:** Cada línea de Solidity que escribo es evaluada desde la perspectiva de cómo un atacante la explotaría.
@@ -78,7 +78,7 @@ Biblioteca de operaciones numéricas avanzadas pensada como cimiento para protoc
 
 ---
 
-## 📚 Línea de Investigación Actual
+##  Línea de Investigación Actual
 
 - Auditoría de smart contracts y análisis estático (Slither / Foundry)
 - Herramientas de monitoreo de redes L1/L2 y análisis de transacciones on-chain
@@ -88,13 +88,13 @@ Biblioteca de operaciones numéricas avanzadas pensada como cimiento para protoc
 
 ---
 
-## 🎯 Objetivo a Medio/Largo Plazo
+##  Objetivo a Medio/Largo Plazo
 
 Posicionarme como **Arquitecto de Sistemas Web3 especializado en Seguridad e Inteligencia de Redes**. Capaz de dirigir la construcción de protocolos descentralizados resistentes a ataques, liderar investigaciones de incidentes on-chain y diseñar infraestructuras donde la construcción técnica y la visión táctica defensiva operen como un solo sistema.
 
 ---
 
-## 📫 Contacto & Canales
+##  Contacto & Canales
 
 | Canal | Enlace |
 |-------|--------|
